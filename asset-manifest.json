@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/smartshop/static/css/main.9bffae1e.chunk.css",
-    "main.js": "/smartshop/static/js/main.3950f78f.chunk.js",
-    "main.js.map": "/smartshop/static/js/main.3950f78f.chunk.js.map",
+    "main.css": "/smartshop/static/css/main.ae2715b4.chunk.css",
+    "main.js": "/smartshop/static/js/main.95077e14.chunk.js",
+    "main.js.map": "/smartshop/static/js/main.95077e14.chunk.js.map",
     "runtime-main.js": "/smartshop/static/js/runtime-main.031162e3.js",
     "runtime-main.js.map": "/smartshop/static/js/runtime-main.031162e3.js.map",
     "static/js/2.6e946db9.chunk.js": "/smartshop/static/js/2.6e946db9.chunk.js",
     "static/js/2.6e946db9.chunk.js.map": "/smartshop/static/js/2.6e946db9.chunk.js.map",
     "index.html": "/smartshop/index.html",
-    "precache-manifest.e0d8926d9859237c1532ccd754c3b49b.js": "/smartshop/precache-manifest.e0d8926d9859237c1532ccd754c3b49b.js",
+    "precache-manifest.dfb0ab4fc865b71b65350339f98f1baf.js": "/smartshop/precache-manifest.dfb0ab4fc865b71b65350339f98f1baf.js",
     "service-worker.js": "/smartshop/service-worker.js",
-    "static/css/main.9bffae1e.chunk.css.map": "/smartshop/static/css/main.9bffae1e.chunk.css.map",
+    "static/css/main.ae2715b4.chunk.css.map": "/smartshop/static/css/main.ae2715b4.chunk.css.map",
     "static/js/2.6e946db9.chunk.js.LICENSE.txt": "/smartshop/static/js/2.6e946db9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.031162e3.js",
     "static/js/2.6e946db9.chunk.js",
-    "static/css/main.9bffae1e.chunk.css",
-    "static/js/main.3950f78f.chunk.js"
+    "static/css/main.ae2715b4.chunk.css",
+    "static/js/main.95077e14.chunk.js"
   ]
 }
