@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/smartshop/static/css/main.2807d6e3.chunk.css",
-    "main.js": "/smartshop/static/js/main.e8000070.chunk.js",
-    "main.js.map": "/smartshop/static/js/main.e8000070.chunk.js.map",
+    "main.js": "/smartshop/static/js/main.37adb400.chunk.js",
+    "main.js.map": "/smartshop/static/js/main.37adb400.chunk.js.map",
     "runtime-main.js": "/smartshop/static/js/runtime-main.031162e3.js",
     "runtime-main.js.map": "/smartshop/static/js/runtime-main.031162e3.js.map",
     "static/js/2.6e946db9.chunk.js": "/smartshop/static/js/2.6e946db9.chunk.js",
     "static/js/2.6e946db9.chunk.js.map": "/smartshop/static/js/2.6e946db9.chunk.js.map",
     "index.html": "/smartshop/index.html",
-    "precache-manifest.3c2b3903d11910cb91c8b66d05e8d35b.js": "/smartshop/precache-manifest.3c2b3903d11910cb91c8b66d05e8d35b.js",
+    "precache-manifest.a9b1935fdb1f173272a1bee0dd2f5aef.js": "/smartshop/precache-manifest.a9b1935fdb1f173272a1bee0dd2f5aef.js",
     "service-worker.js": "/smartshop/service-worker.js",
     "static/css/main.2807d6e3.chunk.css.map": "/smartshop/static/css/main.2807d6e3.chunk.css.map",
     "static/js/2.6e946db9.chunk.js.LICENSE.txt": "/smartshop/static/js/2.6e946db9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.031162e3.js",
     "static/js/2.6e946db9.chunk.js",
     "static/css/main.2807d6e3.chunk.css",
-    "static/js/main.e8000070.chunk.js"
+    "static/js/main.37adb400.chunk.js"
   ]
 }
