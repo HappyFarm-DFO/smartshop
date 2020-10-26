@@ -1,0 +1,36 @@
+<html lang="en">
+  <head>
+   
+<title>SmartShop Twitter Share</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@maxxflyer">
+    <meta name="twitter:creator" content="@maxxflyer">
+    <meta name="twitter:title" content="SmartShop">
+    <meta name="twitter:description" content="SmartShop - Decentralized Modular Shopping Machines">
+    <meta name="twitter:image" content="https://i.imgur.com/9wrbzj4.png">
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="SmartShop">
+ </head>
+  <body style="background:#0788ae;">
+    
+        <script>
+            if(window.innerWidth==100){
+            window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fhappyfarm-dfo.github.io%2Fsmartshop%2F%3Fshop%3D'+getUrlVars()["shop"])
+            }else{
+            window.location.href = 'http://localhost:52285/smartshop/?shop=0x44Fd4AF6e40d5cfd4680807C2053755fE983234E';
+            }
+    function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+        </script>
+        <div id="footer">
+          <div title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fhappyfarm-dfo.github.io%2Fsmartshop%2F%3Fshop%3D'+getUrlVars()['shop'])"><img alt="Tweet" className="socialShare" src="https://i.imgur.com/cHP6bia.png" /></div>
+          </div>
+  </body>
+
+</html>
