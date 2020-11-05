@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/smartshop/static/css/main.ef134e28.chunk.css",
-    "main.js": "/smartshop/static/js/main.9da4c240.chunk.js",
-    "main.js.map": "/smartshop/static/js/main.9da4c240.chunk.js.map",
+    "main.js": "/smartshop/static/js/main.6349d873.chunk.js",
+    "main.js.map": "/smartshop/static/js/main.6349d873.chunk.js.map",
     "runtime-main.js": "/smartshop/static/js/runtime-main.031162e3.js",
     "runtime-main.js.map": "/smartshop/static/js/runtime-main.031162e3.js.map",
-    "static/js/2.d51276b0.chunk.js": "/smartshop/static/js/2.d51276b0.chunk.js",
-    "static/js/2.d51276b0.chunk.js.map": "/smartshop/static/js/2.d51276b0.chunk.js.map",
+    "static/js/2.b9b5fb74.chunk.js": "/smartshop/static/js/2.b9b5fb74.chunk.js",
+    "static/js/2.b9b5fb74.chunk.js.map": "/smartshop/static/js/2.b9b5fb74.chunk.js.map",
     "index.html": "/smartshop/index.html",
-    "precache-manifest.25e8bdbae5c9add6afab390bc491939e.js": "/smartshop/precache-manifest.25e8bdbae5c9add6afab390bc491939e.js",
+    "precache-manifest.af32b84271380dbb0ad71f2aa0d33c5d.js": "/smartshop/precache-manifest.af32b84271380dbb0ad71f2aa0d33c5d.js",
     "service-worker.js": "/smartshop/service-worker.js",
     "static/css/main.ef134e28.chunk.css.map": "/smartshop/static/css/main.ef134e28.chunk.css.map",
-    "static/js/2.d51276b0.chunk.js.LICENSE.txt": "/smartshop/static/js/2.d51276b0.chunk.js.LICENSE.txt"
+    "static/js/2.b9b5fb74.chunk.js.LICENSE.txt": "/smartshop/static/js/2.b9b5fb74.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.031162e3.js",
-    "static/js/2.d51276b0.chunk.js",
+    "static/js/2.b9b5fb74.chunk.js",
     "static/css/main.ef134e28.chunk.css",
-    "static/js/main.9da4c240.chunk.js"
+    "static/js/main.6349d873.chunk.js"
   ]
 }
